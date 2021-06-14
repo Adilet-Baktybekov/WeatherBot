@@ -1,7 +1,7 @@
-TOKEN = '1703387044:AAFhHr0fwKg4cmN3Oy9peGbFxcWsrsmAH_U'
+TOKEN = 'YOUR TOKEN'
 URL = 'http://api.openweathermap.org/data/2.5/weather'
-API_WEATHER ='5b67cb156ecfee9cdeafdabe9db6975f'
-API_WEATHER2 = '1ef59eb8413621790ab7ecc600010dcd'
+API_WEATHER ='YOUR API_1'
+API_WEATHER2 = 'YOUR API_2'
 URL2 = "https://api.openweathermap.org/data/2.5/onecall?lat=%s&lon=%s&appid=%s&units=metric&lang=%s"
 lang = 'en'
 old_city = ''
